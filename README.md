@@ -11,23 +11,26 @@ Hello! I am YuSeung Kang, and I am passionate about Big Data and Data Science. I
 
 2. **Smart Tourism Platform Development with Meta-Path Embedding Recommendation System**
    - Ministry of SMEs and Startups (MSS, Korea)
+   - Participating Organizations: Knowledge Engineering Lab, Chung-Ang University; NEWRUNS
    - May 2022 - May 2023
 
 3. **Survey Recommendation**
+   - Participating Organizations: Knowledge Engineering Lab, Chung-Ang University
    - June 2022 - July 2022
 
 4. **Apparatus, Method and System for Customized Track Recommendation**
+   - Jointly filed by Knowledge Engineering Lab, Chung-Ang University and NEWRUNS
    - Patent filed in April 2023
 
 <br>
-
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-
+</div>
 
 <!--
 **kangyuseung/kangyuseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
