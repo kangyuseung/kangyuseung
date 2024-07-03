@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/kangusng-37b2472a6" target="_blank"><img src="https://img.shields.io/badge/YuSeungKang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kangusng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kangusng@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+Hello! I am YuSeung Kang, and I am passionate about Big Data and Data Science. I am interested in using data analysis techniques and AI methodologies to extract insights, support decision-making, and solve business problems.
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
