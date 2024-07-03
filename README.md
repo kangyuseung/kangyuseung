@@ -28,26 +28,7 @@ Hello! I am YuSeung Kang, and I am passionate about Big Data and Data Science. I
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
-## Experience
 
-1. Google Machine Learning Bootcamp 2024
-   - June 2024 - October 2024
-2. Smart Tourism Platform Development with Meta-Path Embedding Recommendation System,
-   - Ministry of SMEs and Startups (MSS, Korea)
-   - May 2022 - May 2023
-4. Survey Recommendation
-   - June 2022 - July 2022
-6. Apparatus, Method and System for Customized Track Recommendation
-   - (Patent filed in April 2023) 
-
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 <!--
 **kangyuseung/kangyuseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
