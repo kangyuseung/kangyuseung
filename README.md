@@ -5,6 +5,13 @@ Hello! I am YuSeung Kang, and I am passionate about Big Data and Data Science. I
 <a href="mailto:kangusng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kangusng@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## Experience
+
+1. Google Machine Learning Bootcamp 2024
+2. Smart Tourism Platform Development with Meta-Path Embedding Recommendation System, Ministry of SMEs and Startups (MSS, Korea)
+3. Survey Recommendation
+4. Apparatus, Method and System for Customized Track Recommendation, (Patent filed in April 2023) 
+
+
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
