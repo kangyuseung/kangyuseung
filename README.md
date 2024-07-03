@@ -11,16 +11,16 @@ Hello! I am YuSeung Kang, and I am passionate about Big Data and Data Science. I
 
 2. **Smart Tourism Platform Development with Meta-Path Embedding Recommendation System**
    - Ministry of SMEs and Startups (MSS, Korea)
-   - Participating Organizations: Knowledge Engineering Lab, Chung-Ang University; NEWRUNS
+   - Participating Organizations: Knowledge Engineering Lab (Chung-Ang University), NEWRUNS
    - May 2022 - May 2023
 
 3. **Survey Recommendation**
-   - Participating Organizations: Knowledge Engineering Lab, Chung-Ang University
+   - Participating Organizations: Knowledge Engineering Lab (Chung-Ang University)
    - June 2022 - July 2022
 
 4. **Apparatus, Method and System for Customized Track Recommendation**
-   - Jointly filed by Knowledge Engineering Lab, Chung-Ang University and NEWRUNS
-   - Patent filed in April 2023
+   - Jointly filed by Knowledge Engineering Lab (Chung-Ang University) and NEWRUNS
+   - Patent application filed in April 2023
 
 <br>
 
