@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Gmail](https://img.shields.io/badge/Gmail-kangusng@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kangusng@gmail.com) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-kangusng@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kangusng@gmail.com)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
