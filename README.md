@@ -1,8 +1,6 @@
 ## Hi there 👋
 [![Gmail](https://img.shields.io/badge/Gmail-kangusng@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kangusng@gmail.com)
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YU Seung Kang-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/kangusng-37b2472a6)
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
