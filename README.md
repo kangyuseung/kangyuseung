@@ -4,7 +4,7 @@ Hello! I am YuSeung Kang, and I am passionate about Big Data and Data Science. I
 <a href="https://www.linkedin.com/in/kangusng-37b2472a6" target="_blank"><img src="https://img.shields.io/badge/YuSeungKang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kangusng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kangusng@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-
+![Star Logo](https://github.com/username/repository/blob/main/assets/star_logo.png)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
