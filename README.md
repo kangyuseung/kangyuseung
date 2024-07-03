@@ -7,9 +7,14 @@ Hello! I am YuSeung Kang, and I am passionate about Big Data and Data Science. I
 ## Experience
 
 1. Google Machine Learning Bootcamp 2024
-2. Smart Tourism Platform Development with Meta-Path Embedding Recommendation System, Ministry of SMEs and Startups (MSS, Korea)
-3. Survey Recommendation
-4. Apparatus, Method and System for Customized Track Recommendation, (Patent filed in April 2023) 
+   - June 2024 - October 2024
+2. Smart Tourism Platform Development with Meta-Path Embedding Recommendation System,
+   - Ministry of SMEs and Startups (MSS, Korea)
+   - May 2022 - May 2023
+4. Survey Recommendation
+   - June 2022 - July 2022
+6. Apparatus, Method and System for Customized Track Recommendation
+   - (Patent filed in April 2023) 
 
 
 
