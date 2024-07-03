@@ -19,7 +19,7 @@ Hello! I am YuSeung Kang, and I am passionate about Big Data and Data Science. I
 4. **Apparatus, Method and System for Customized Track Recommendation**
    - Patent filed in April 2023
 
---
+<hr>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
